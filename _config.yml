@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Xinbo Lin"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+description              : "Ph.D. Candidate in Law"
+repository               : "linxinbo-law/linxinbo-law.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  email            : "lin_xinbo@sina.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "linxinbo-law"
   google_plus      :
   keybase          :
   instagram        :
