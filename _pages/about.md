@@ -23,7 +23,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2025.11*: &nbsp;🎉🎉 **One** paper is accepted by AAAI-26!
+
 - *2024.09*: &nbsp;🎉🎉 **One** paper is accepted by EMNLP'24!
 
 # 📝 Publications 
