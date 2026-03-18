@@ -34,30 +34,40 @@ My research interests lie in AI for Law, Judicial Institutions, Legal Profession
 # 📝 Publications 
 \* indicates equal contributions.
 
-- ``Book Chapter`` **Distance Creates Beauty: Public Imaginaries of AI in China’s Smart Courts and Trust in the Judiciary**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">``Book Chapter``</div><img src='../images/MSLR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+- **Distance Creates Beauty: Public Imaginaries of AI in China’s Smart Courts and Trust in the Judiciary**
   
-    Xinbo Lin and Jinhua Cheng
+    **Xinbo Lin** and Jinhua Cheng
 
     *forthcoming, 2026*
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">``Preprint``</div><img src='../images/Fig1_pipeline.png' alt="sym" width="100%"></div></div>
+    ``Trustworthy Legal AI``
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">``Preprint``</div><img src='../images/MSLR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- ``Preprint`` **[Benchmarking Multi-Step Legal Reasoning and Analyzing Chain-of-Thought Effects in Large Language Models](https://arxiv.org/abs/2511.07979)**
+- **[Benchmarking Multi-Step Legal Reasoning and Analyzing Chain-of-Thought Effects in Large Language Models](https://arxiv.org/abs/2511.07979)**
 
     Wenhan Yu\*, **Xinbo Lin\***, Lanxin Ni, Jinhua Cheng, Lei Sha
   
     *arXiv, 2025*
+
+    ``Legal AI Agent`` ``Text-to-Table``
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">``EMNLP'2024 (oral)``</div><img src='../images/TKGT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-- ``EMNLP'2024 (oral)`` **[TKGT: Redefinition and A New Way of Text-to-Table Tasks Based on Real World Demands and Knowledge Graphs Augmented LLMs](https://aclanthology.org/2024.emnlp-main.901.pdf)**
+- **[TKGT: Redefinition and A New Way of Text-to-Table Tasks Based on Real World Demands and Knowledge Graphs Augmented LLMs](https://aclanthology.org/2024.emnlp-main.901.pdf)**
 
     Peiwen Jiang\*, **Xinbo Lin\***, Zibo Zhao, Ruhui Ma, Yvonne Jie Chen, Jinhua Cheng
 
     *The 2024 Conference on Empirical Methods in Natural Language Processing, 2024*
+
+    ``Text-to-Table`` 
 </div>
 </div>
 
