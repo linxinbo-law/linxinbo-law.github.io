@@ -72,8 +72,15 @@ My research interests lie in AI for Law, Judicial Institutions, Legal Profession
 </div>
 
 # 🏆 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- First Prize Winner in the China Data Governance Legal Model Competition, 2024.
+- Outstanding Individual Award for Student Social Practice, 2023.
+- Three-Good Student of SJTU, 2021.
+- Outstanding Graduate of SJTU, 2020.
+- China National Scholarship Winner, 2015, 2019.
+- Outstanding Graduate of Shanghai, 2017.
+- Bronze Medal Winner in China College Students Entrepreneurship Competition (Shanghai Division), 2016.
+- National Second Prize Winner in China Undergraduate Mathematical Contest in Modeling, 2015.
+- Shanghai Scholarship Winner, 2014.
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
