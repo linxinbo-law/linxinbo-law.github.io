@@ -40,12 +40,15 @@ My research interests lie in AI for Law, Judicial Institutions, Legal Profession
 
     *forthcoming, 2026*
 
-
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">``Preprint``</div><img src='../images/Fig1_pipeline.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 - ``Preprint`` **[Benchmarking Multi-Step Legal Reasoning and Analyzing Chain-of-Thought Effects in Large Language Models](https://arxiv.org/abs/2511.07979)**
 
     Wenhan Yu\*, **Xinbo Lin\***, Lanxin Ni, Jinhua Cheng, Lei Sha
   
     *arXiv, 2025*
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">``EMNLP'2024 (oral)``</div><img src='../images/dataoverview.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
