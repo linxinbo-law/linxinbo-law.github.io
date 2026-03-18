@@ -20,9 +20,9 @@ redirect_from:
 Hello! I am a Ph.D. student in Law at Shanghai Jiao Tong University, supervised by Prof. [Jinhua Cheng](https://law.sjtu.edu.cn/flfs/20210226/199.html). I am also a member of the [Center for Empirical Legal Studies](https://law.sjtu.edu.cn/flszyjzx/index.html) and serve as a Research Assistant at the [China Institute for Socio-Legal Studies](http://www.socio-legal.sjtu.edu.cn/). Previously, I obtained my LL.M. (Master of Laws) from Shanghai Jiao Tong University and completed a dual bachelor's degree in Financial Management and Mathematics from the East China University of Science and Technology.
 
 My research interests lie in AI for Law, Judicial Institutions, Legal Profession, and Integrated Civil-Administrative-Criminal Governance. At the intersection of AI and Law, I pursue three goals:
-- Investigating the definition and dimensions of 'Trustworthy Legal AI' by analyzing public needs and societal acceptability.
-- Developing Legal AI Agents to enhance legal reasoning, case analysis, and contract review for legal practitioners.
-- Building LLM-powered Text-to-Table pipelines to convert unstructured legal texts into analysis-ready metadata, unlocking new scales of quantitative inquiry.
+- Investigating the definition and dimensions of ``Trustworthy Legal AI`` by analyzing public needs and societal acceptability.
+- Developing ``Legal AI Agents`` to enhance legal reasoning, case analysis, and contract review for legal practitioners.
+- Building LLM-powered ``Text-to-Table`` pipelines to convert unstructured legal texts into analysis-ready metadata, unlocking new scales of quantitative inquiry.
 
 
 
