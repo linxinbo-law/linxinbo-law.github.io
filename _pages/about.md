@@ -38,7 +38,7 @@ My research interests lie in AI for Law, Judicial Institutions, Legal Profession
 <div class='paper-box-text' markdown="1">
 - **Distance Creates Beauty: Public Imaginaries of AI in China’s Smart Courts and Trust in the Judiciary**
   
-    **Xinbo Lin** \& Jinhua Cheng
+    **Xinbo Lin**, Jinhua Cheng
 
     *forthcoming, 2026*
 
