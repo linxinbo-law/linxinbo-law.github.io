@@ -34,11 +34,11 @@ My research interests lie in AI for Law, Judicial Institutions, Legal Profession
 # 📝 Publications 
 \* indicates equal contributions.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">``Book Chapter``</div><img src='../images/MSLR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">``Book Chapter``</div><img src='../images/Distance.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - **Distance Creates Beauty: Public Imaginaries of AI in China’s Smart Courts and Trust in the Judiciary**
   
-    **Xinbo Lin** and Jinhua Cheng
+    **Xinbo Lin** & Jinhua Cheng
 
     *forthcoming, 2026*
 
@@ -54,7 +54,7 @@ My research interests lie in AI for Law, Judicial Institutions, Legal Profession
   
     *arXiv, 2025*
 
-    ``Legal AI Agent`` ``Text-to-Table``
+    ``Legal AI Agent`` ``Text-to-Table-to-Text``
 </div>
 </div>
 
