@@ -54,7 +54,7 @@ My research interests lie in AI for Law, Judicial Institutions, Legal Profession
   
     *arXiv, 2025*
 
-    ``Legal AI Agent`` ``Text-to-Table-to-Text``
+    ``Legal AI Agent`` ``Text-Table-Text``
 </div>
 </div>
 
