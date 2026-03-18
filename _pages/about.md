@@ -32,20 +32,9 @@ My research interests lie in AI for Law, Judicial Institutions, Legal Profession
 - *2024.09*: &nbsp;🎉🎉 **One** paper is accepted by EMNLP'24!
 
 # 📝 Publications 
-\* indicates equal contributions.
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024 (oral)</div><img src='images/dataoverview.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[TKGT: Redefinition and A New Way of Text-to-Table Tasks Based on Real World Demands and Knowledge Graphs Augmented LLMs]([https://aclanthology.org/2024.emnlp-main.901/](https://aclanthology.org/2024.emnlp-main.901.pdf))
 
-Peiwen Jiang\*, **Xinbo Lin**\*, Zibo Zhao, Ruhui Ma, Yvonne Jie Chen, Jinhua Cheng
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- ``**EMNLP'2024 (oral)**`` [TKGT: Redefinition and A New Way of Text-to-Table Tasks Based on Real World Demands and Knowledge Graphs Augmented LLMs]([https://aclanthology.org/2024.emnlp-main.901/](https://aclanthology.org/2024.emnlp-main.901.pdf))**
+- **``EMNLP'2024 (oral)`` [TKGT: Redefinition and A New Way of Text-to-Table Tasks Based on Real World Demands and Knowledge Graphs Augmented LLMs]([https://aclanthology.org/2024.emnlp-main.901/](https://aclanthology.org/2024.emnlp-main.901.pdf))**
 
     Peiwen Jiang\*, **Xinbo Lin\***, Zibo Zhao, Ruhui Ma, Yvonne Jie Chen, Jinhua Cheng
 
