@@ -45,8 +45,11 @@ Peiwen Jiang\*, **Xinbo Lin**\*, Zibo Zhao, Ruhui Ma, Yvonne Jie Chen, Jinhua Ch
 </div>
 </div>
 
-- [TKGT: Redefinition and A New Way of Text-to-Table Tasks Based on Real World Demands and Knowledge Graphs Augmented LLMs]([https://aclanthology.org/2024.emnlp-main.901/](https://aclanthology.org/2024.emnlp-main.901.pdf))
-Peiwen Jiang\*, **Xinbo Lin**\*, Zibo Zhao, Ruhui Ma, Yvonne Jie Chen, Jinhua Cheng
+- **[EMNLP'2024 (oral)】]**[TKGT: Redefinition and A New Way of Text-to-Table Tasks Based on Real World Demands and Knowledge Graphs Augmented LLMs]([https://aclanthology.org/2024.emnlp-main.901/](https://aclanthology.org/2024.emnlp-main.901.pdf))
+
+    Peiwen Jiang\*, **Xinbo Lin\***, Zibo Zhao, Ruhui Ma, Yvonne Jie Chen, Jinhua Cheng
+
+    *The 2024 Conference on Empirical Methods in Natural Language Processing, 2024*
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
