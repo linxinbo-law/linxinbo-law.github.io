@@ -80,10 +80,7 @@ My research interests lie in AI for Law, Judicial Institutions, Legal Profession
 - Outstanding Graduate of Shanghai, 2017.
 - Bronze Medal Winner in China College Students Entrepreneurship Competition (Shanghai Division), 2016.
 - National Second Prize Winner in China Undergraduate Mathematical Contest in Modeling, 2015.
-- Shanghai Scholarship Winner, 2014.
-
-# 📖 Educations
-- 
+- Shanghai Scholarship Winner, 2014. 
 
 # 💬 Invited Talks
 - 
