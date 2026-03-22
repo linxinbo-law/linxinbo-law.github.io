@@ -50,7 +50,7 @@ My research interests lie in AI for Law, Judicial Institutions, Legal Profession
 <div class='paper-box-text' markdown="1">
 - **[Benchmarking Multi-Step Legal Reasoning and Analyzing Chain-of-Thought Effects in Large Language Models](https://arxiv.org/abs/2511.07979)**
 
-    Wenhan Yu\*, **Xinbo Lin\***, Lanxin Ni, Jinhua Cheng, Lei Sha
+    Wenhan Yu\*, [**Xinbo Lin\***], Lanxin Ni, Jinhua Cheng, Lei Sha
   
     *arXiv, 2025*
 
@@ -63,7 +63,7 @@ My research interests lie in AI for Law, Judicial Institutions, Legal Profession
   
 - **[TKGT: Redefinition and A New Way of Text-to-Table Tasks Based on Real World Demands and Knowledge Graphs Augmented LLMs](https://aclanthology.org/2024.emnlp-main.901.pdf)**
 
-    Peiwen Jiang\*, **Xinbo Lin\***, Zibo Zhao, Ruhui Ma, Yvonne Jie Chen, Jinhua Cheng
+    Peiwen Jiang\*, **[Xinbo Lin\*]**, Zibo Zhao, Ruhui Ma, Yvonne Jie Chen, Jinhua Cheng
 
     *The 2024 Conference on Empirical Methods in Natural Language Processing, 2024*
 
