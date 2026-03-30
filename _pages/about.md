@@ -75,7 +75,7 @@ My research interests lie in AI for Law, Judicial Institutions, Legal Profession
 </div>
 
 
-# 💬 Invited Talks
+# 🎙️ Invited Talks
 - 12/2025, Tsinghua Legal AI Seminar, *Text-Table-Text Tasks in AI for Law*.
 - 10/2024, China Computer Federation (CCF) Computational Law Annual Conference 2024，*From Long Text to Metadata: Constructing the Data Foundation under the Computational Law Paradigm*.
 - 09/2024, European China Law Studies Association (ECLS) Annual Conference 2024, *"Distance Creates Beauty": How People in Shanghai View AI-assisted Sentencing*.
