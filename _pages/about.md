@@ -28,8 +28,11 @@ My research interests lie in AI for Law, Judicial Institutions, Legal Profession
 
 
 # 🔥 News
-
+- *2025.12*: &nbsp;🎙️🎙️ Present at the Tsinghua Legal AI Seminar!
+- *2024.10*: &nbsp;🎙️🎙️ Present at the China Computer Federation (CCF) Computational Law Annual Conference!
 - *2024.09*: &nbsp;🎉🎉 **One** paper is accepted by EMNLP'24!
+- *2024.09*: &nbsp;🎙️🎙️ Present at the European China Law Studies Association (ECLS) Annual Conference!
+
 
 # 📝 Publications 
 \* indicates equal contributions.
