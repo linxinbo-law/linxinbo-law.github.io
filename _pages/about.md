@@ -94,4 +94,6 @@ My research interests lie in AI for Law, Judicial Institutions, Legal Profession
  
 
 # 💻 Internships
-- 
+- 08/2019-10/2019, Citi Orient Securities Co., Ltd.
+- 03/2019-07/2019, GF Securities Co., Ltd.
+- 11/2018-02/2019, China Merchants Securities Co., Ltd.
