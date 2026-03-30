@@ -74,6 +74,13 @@ My research interests lie in AI for Law, Judicial Institutions, Legal Profession
 </div>
 </div>
 
+
+# 💬 Invited Talks
+- 12/2025, Tsinghua Legal AI Seminar, *Text-Table-Text Tasks in AI for Law*.
+- 10/2024, China Computer Federation (CCF) Computational Law Annual Conference 2024，*From Long Text to Metadata: Constructing the Data Foundation under the Computational Law Paradigm*.
+- 09/2024, European China Law Studies Association (ECLS) Annual Conference 2024, *"Distance Creates Beauty": How People in Shanghai View AI-assisted Sentencing*.
+- 12/2023, The Third Sino-Italian Judicial Forum: The Civil Code and the Chinese-Style Modernization of Rule of Law, *The Trial Procedure-element Method for Measuring the Workload of Judicial Cases: An Empirical Study Based on Intermediate Court H in Shanghai*.
+ 
 # 🏆 Honors and Awards
 - 🥇First Prize Winner in the China Data Governance Legal Model Competition, 2024.
 - 🥇First Prize Winner in Shanghai Industry Analysis Competition for University Students, 2023.
@@ -84,14 +91,8 @@ My research interests lie in AI for Law, Judicial Institutions, Legal Profession
 - Outstanding Graduate of Shanghai, 2017.
 - 🥉Bronze Medal Winner in China College Students Entrepreneurship Competition (Shanghai Division), 2016.
 - 🥈National Second Prize Winner in China Undergraduate Mathematical Contest in Modeling, 2015.
-- Shanghai Scholarship Winner, 2014. 
+- Shanghai Scholarship Winner, 2014.
 
-# 💬 Invited Talks
-- 12/2025, Tsinghua Legal AI Seminar, *Text-Table-Text Tasks in AI for Law*.
-- 10/2024, China Computer Federation (CCF) Computational Law Annual Conference 2024，*From Long Text to Metadata: Constructing the Data Foundation under the Computational Law Paradigm*.
-- 09/2024, European China Law Studies Association (ECLS) Annual Conference 2024, *"Distance Creates Beauty": How People in Shanghai View AI-assisted Sentencing*.
-- 12/2023, The Third Sino-Italian Judicial Forum: The Civil Code and the Chinese-Style Modernization of Rule of Law, *The Trial Procedure-element Method for Measuring the Workload of Judicial Cases: An Empirical Study Based on Intermediate Court H in Shanghai*.
- 
 
 # 💻 Internships
 - 08/2019-10/2019, Citi Orient Securities Co., Ltd.
