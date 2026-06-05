@@ -77,7 +77,7 @@ My research interests lie in AI for Law, Judicial Institutions, Legal Profession
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">``Paper``</div><img src='../images/Caseload_Measurement.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-- **[The Trial Procedure-element Method for Measuring the Workload of Judicial Cases: An Empirical Study Based on Intermediate Court H in Shanghai](https://www.journal.sdu.edu.cn/info/1296/2443.htm)** (in Chinese)    [EN Version](https://www.taylorfrancis.com/chapters/mono/10.4324/9781003741787-7/caseload-measurement-based-trial-process-elements-jinhua-cheng?context=ubx&refId=e2bbd794-a15c-4752-9704-fc9971789801)
+- **[The Trial Procedure-element Method for Measuring the Workload of Judicial Cases: An Empirical Study Based on Intermediate Court H in Shanghai](https://www.journal.sdu.edu.cn/info/1296/2443.htm)** (in Chinese)    [[EN Version](https://www.taylorfrancis.com/chapters/mono/10.4324/9781003741787-7/caseload-measurement-based-trial-process-elements-jinhua-cheng?context=ubx&refId=e2bbd794-a15c-4752-9704-fc9971789801)]
 
   **_Xinbo Lin\*_**, Xin Zhang, Jinhua Cheng 
   
