@@ -82,7 +82,7 @@ My research interests lie in AI for Law, Judicial Institutions, Legal Profession
   **_Xinbo Lin\*_**, Xin Zhang, Jinhua Cheng 
   
 
-    *Journal of Shandong University(Philosophy and Social Sciences), 2023*
+    *Journal of Shandong University (Philosophy and Social Sciences), 2023*
 
     ``Judicial Institutions``  ``Legal Profession`` 
 </div>
