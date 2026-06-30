@@ -52,7 +52,7 @@ My research interests lie in AI for Law, Judicial Institutions, Legal Profession
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">``IPM``</div><img src='../images/MSLR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- **[Benchmarking Multi-Step Legal Reasoning and Analyzing Chain-of-Thought Effects in Large Language Models]([10.1016/j.ipm.2026.105030](http://dx.doi.org/10.1016/j.ipm.2026.105030))**
+- **[Benchmarking Multi-Step Legal Reasoning and Analyzing Chain-of-Thought Effects in Large Language Models](http://dx.doi.org/10.1016/j.ipm.2026.105030)**
 
     Wenhan Yu\*, **_Xinbo Lin\*_**, Lanxin Ni, Jinhua Cheng, Lei Sha
   
