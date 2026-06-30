@@ -65,7 +65,7 @@ My research interests lie in AI for Law, Judicial Institutions, Legal Profession
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">``EMNLP'2024 (oral)``</div><img src='../images/TKGT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-- **[TKGT: Redefinition and A New Way of Text-to-Table Tasks Based on Real World Demands and Knowledge Graphs Augmented LLMs](https://aclanthology.org/2024.emnlp-main.901.pdf)**
+- **[TKGT: Redefinition and A New Way of Text-to-Table Tasks Based on Real World Demands and Knowledge Graphs Augmented LLMs](https://aclanthology.org/2024.emnlp-main.901/)**
 
     Peiwen Jiang\*, **_Xinbo Lin\*_**, Zibo Zhao, Ruhui Ma, Yvonne Jie Chen, Jinhua Cheng
 
