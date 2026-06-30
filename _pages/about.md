@@ -56,7 +56,7 @@ My research interests lie in AI for Law, Judicial Institutions, Legal Profession
 
     Wenhan Yu\*, **_Xinbo Lin\*_**, Lanxin Ni, Jinhua Cheng, Lei Sha
   
-    *Information Processing & Management, 2027*
+    *Information Processing &amp; Management, 2027*
 
     ``Legal AI Agent`` ``Text-Table-Text``
 </div>
