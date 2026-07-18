@@ -42,7 +42,7 @@ My research interests lie in AI for Law, Judicial Institutions, Legal Profession
 <div class='paper-box-text' markdown="1">
 - **[Benchmarking Multi-Step Legal Reasoning and Analyzing Chain-of-Thought Effects in Large Language Models](http://dx.doi.org/10.1016/j.ipm.2026.105030)**
 
-    Wenhan Yu\*, **_Xinbo Lin\*_**, Lanxin Ni, Jinhua Cheng, Lei Sha
+    Wenhan Yu\*, **_Xinbo Lin\*_**, Lanxin Ni, Jinhua Cheng🖂, Lei Sha🖂
   
     *Information Processing and Management, 2027*
 
@@ -56,7 +56,7 @@ My research interests lie in AI for Law, Judicial Institutions, Legal Profession
   
 - **[TKGT: Redefinition and A New Way of Text-to-Table Tasks Based on Real World Demands and Knowledge Graphs Augmented LLMs](https://aclanthology.org/2024.emnlp-main.901/)**
 
-    Peiwen Jiang\*, **_Xinbo Lin\*_**, Zibo Zhao, Ruhui Ma, Yvonne Jie Chen, Jinhua Cheng
+    Peiwen Jiang\*, **_Xinbo Lin\*_**, Zibo Zhao, Ruhui Ma🖂, Yvonne Jie Chen🖂, Jinhua Cheng🖂
 
     *The 2024 Conference on Empirical Methods in Natural Language Processing, 2024*
 
@@ -94,15 +94,16 @@ My research interests lie in AI for Law, Judicial Institutions, Legal Profession
 
 # 📝 Working Paper 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">``Paper``</div><img src='../images/Judicial_AI_Use.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 - **[Perceiving Techo-Legality: Social Attitudes towards the Judicial Use of Artificial Intelligence in China and the United States]()** 
 
-  **_Xinbo Lin\*_**, Lawrence J. Liu, Eddie Yang, Jinhua Cheng, Han Liu, Taisu Zhang
+  **_Xinbo Lin_**, Lawrence J. Liu, Eddie Yang, Jinhua Cheng, Han Liu, Taisu Zhang🖂
   
 
     ``Trustworthy Legal AI``  ``Judicial Institutions``   
 </div>
 </div>
-
 
 # 🎙️ Invited Talks
 - 12/2025, Tsinghua Legal AI Seminar, *Text-Table-Text Tasks in AI for Law*.
