@@ -95,7 +95,7 @@ My research interests lie in AI for Law, Judicial Institutions, Legal Profession
 
 # 📝 Working Paper 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">``Paper``</div><img src='../images/Judicial_AI_Use.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">````</div><img src='../images/Judicial_AI_Use.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - **[Perceiving Techo-Legality: Social Attitudes towards the Judicial Use of Artificial Intelligence in China and the United States]()** 
 
