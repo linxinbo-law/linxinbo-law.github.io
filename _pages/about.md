@@ -38,18 +38,6 @@ My research interests lie in AI for Law, Judicial Institutions, Legal Profession
 # 📝 Publications 
 \* indicates equal contributions.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">``Book Chapter``</div><img src='../images/Distance.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-- **Distance Creates Beauty: Public Imaginaries of AI in China’s Smart Courts and Trust in the Judiciary**
-  
-    **_Xinbo Lin_**, Jinhua Cheng
-
-    *forthcoming, 2026*
-
-    ``Trustworthy Legal AI``
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">``IPM``</div><img src='../images/MSLR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - **[Benchmarking Multi-Step Legal Reasoning and Analyzing Chain-of-Thought Effects in Large Language Models](http://dx.doi.org/10.1016/j.ipm.2026.105030)**
@@ -61,6 +49,7 @@ My research interests lie in AI for Law, Judicial Institutions, Legal Profession
     ``Legal AI Agent`` ``Text-Table-Text``
 </div>
 </div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">``EMNLP'2024 (oral)``</div><img src='../images/TKGT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -75,6 +64,20 @@ My research interests lie in AI for Law, Judicial Institutions, Legal Profession
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">``Book Chapter``</div><img src='../images/Distance.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+- **Distance Creates Beauty: Public Imaginaries of AI in China’s Smart Courts and Trust in the Judiciary**
+  
+    **_Xinbo Lin_**, Jinhua Cheng
+
+    *forthcoming, 2026*
+
+    ``Trustworthy Legal AI``
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">``Paper``</div><img src='../images/Caseload_Measurement.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -86,6 +89,17 @@ My research interests lie in AI for Law, Judicial Institutions, Legal Profession
     *Journal of Shandong University (Philosophy and Social Sciences), 2023*
 
     ``Judicial Institutions``  ``Legal Profession`` 
+</div>
+</div>
+
+# 📝 Working Paper 
+
+- **[Perceiving Techo-Legality: Social Attitudes towards the Judicial Use of Artificial Intelligence in China and the United States]()** 
+
+  **_Xinbo Lin\*_**, Lawrence J. Liu, Eddie Yang, Jinhua Cheng, Han Liu, Taisu Zhang
+  
+
+    ``Trustworthy Legal AI``  ``Judicial Institutions``   
 </div>
 </div>
 
