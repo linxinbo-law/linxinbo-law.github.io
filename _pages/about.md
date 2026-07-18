@@ -36,8 +36,8 @@ My research interests lie in AI for Law, Judicial Institutions, Legal Profession
 
 
 # 📝 Publications 
-\* indicates equal contribution.
-<sup>†</sup> indicates Corresponding author.
+\* indicates equal contribution;
+<sup>†</sup> indicates corresponding author.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">``IPM``</div><img src='../images/MSLR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -84,7 +84,7 @@ My research interests lie in AI for Law, Judicial Institutions, Legal Profession
   
 - **[The Trial Procedure-element Method for Measuring the Workload of Judicial Cases: An Empirical Study Based on Intermediate Court H in Shanghai](https://www.journal.sdu.edu.cn/info/1296/2443.htm)** (in Chinese)    [[EN Version](https://www.taylorfrancis.com/chapters/mono/10.4324/9781003741787-7/caseload-measurement-based-trial-process-elements-jinhua-cheng?context=ubx&refId=e2bbd794-a15c-4752-9704-fc9971789801)]
 
-  **_Xinbo Lin\*_**, Xin Zhang, Jinhua Cheng 
+  **_Xinbo Lin_**, Xin Zhang, Jinhua Cheng 
   
 
     *Journal of Shandong University (Philosophy and Social Sciences), 2023*
@@ -95,7 +95,7 @@ My research interests lie in AI for Law, Judicial Institutions, Legal Profession
 
 # 📝 Working Paper 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">````</div><img src='../images/Judicial_AI_Use.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='../images/Judicial_AI_Use.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - **[Perceiving Techo-Legality: Social Attitudes towards the Judicial Use of Artificial Intelligence in China and the United States]()** 
 
