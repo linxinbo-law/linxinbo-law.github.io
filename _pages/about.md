@@ -98,7 +98,7 @@ My research interests lie in AI for Law, Judicial Institutions, Legal Profession
 <div class='paper-box-text' markdown="1">
 - **[Perceiving Techo-Legality: Social Attitudes towards the Judicial Use of Artificial Intelligence in China and the United States]()** 
 
-  **_Xinbo Lin_**, Lawrence J. Liu, Eddie Yang, Jinhua Cheng, Han Liu, Taisu Zhang<i class="fa fa-envelope-o corresponding-author"></i>
+  **_Xinbo Lin_**, Lawrence J. Liu, Eddie Yang, Jinhua Cheng, Han Liu, Taisu Zhang<i class="fa fa-envelope-o corresponding-author"></i><br>
   
 
     ``Trustworthy Legal AI``  ``Judicial Institutions``   
